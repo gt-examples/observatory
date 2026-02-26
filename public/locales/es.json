@@ -1,0 +1,786 @@
+{
+  "05ad97a326b919f9": [
+    {
+      "i": 1,
+      "k": "_gt_value_1",
+      "v": "v"
+    },
+    " años luz"
+  ],
+  "0cdd0cbb896d9a6d": {
+    "c": [
+      {
+        "c": [
+          "Apertura: ",
+          {
+            "i": 3,
+            "k": "_gt_value_3",
+            "v": "v"
+          }
+        ],
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": [
+          "Ideal para: ",
+          {
+            "i": 5,
+            "k": "_gt_value_5",
+            "v": "v"
+          }
+        ],
+        "i": 4,
+        "t": "p"
+      },
+      {
+        "c": {
+          "i": 7,
+          "k": "_gt_value_7",
+          "v": "v"
+        },
+        "i": 6,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "2eab296242fa4f4c": [
+    {
+      "c": "Registro de observaciones",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Un registro cronológico de las sesiones de observación del Stellaris Observatory. Cada entrada documenta el objeto observado, las condiciones atmosféricas, el equipo utilizado y una calificación de calidad. Haz clic en cualquier entrada para expandir las notas completas.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "39e136d22ecaae05": [
+    {
+      "c": "Planificador de observaciones",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Planifica tus sesiones de observación semanales. Cada bloque horario incluye el objeto objetivo, la altitud y el acimut óptimos, las condiciones de visibilidad y el equipo recomendado según el tipo de objeto. Haz clic en cualquier bloque para ver más detalles.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "3ac6ff68dbaf3f43": "Explora y filtra objetos celestes por tipo, constelación, magnitud y clase espectral.",
+  "3e0df405a4360b7c": {
+    "c": [
+      {
+        "c": [
+          "Constelación: ",
+          {
+            "i": 3,
+            "k": "_gt_value_3",
+            "v": "v"
+          },
+          " — ",
+          {
+            "i": 4,
+            "t": "ConstellationRegion"
+          }
+        ],
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": [
+          "Magnitud: ",
+          {
+            "i": 6,
+            "k": "_gt_value_6",
+            "v": "v"
+          }
+        ],
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "i": 7,
+        "k": "_gt_value_7",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "3f6ae810ab72aaff": {
+    "c": "Tipos de objetos celestes",
+    "i": 1,
+    "t": "h2"
+  },
+  "5828e98313b8ae8b": [
+    {
+      "c": "Carta estelar",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Mapa interactivo de constelaciones. Pasa el cursor sobre las estrellas para ver los detalles de cada objeto, incluidos su nombre, constelación y magnitud aparente.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "60f1d24a1652c6c2": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "k": "_gt_n_3",
+            "v": "n"
+          },
+          "/10"
+        ],
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": "mejor calificación de calidad",
+        "i": 4,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "712f2a5ca0185f24": "Planificador de observaciones — Stellaris Observatory",
+  "793729a6d68fee1d": [
+    {
+      "c": "Stellaris Observatory",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Tu ventana al cielo nocturno. Haz un seguimiento de objetos celestes a través de las constelaciones, planifica sesiones de observación y lleva un registro detallado de tus descubrimientos.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "7e0930de42933d7f": {
+    "c": [
+      {
+        "c": [
+          "Condiciones: ",
+          {
+            "i": 3,
+            "t": "ConditionsLabel"
+          }
+        ],
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": [
+          "Equipo: ",
+          {
+            "i": 5,
+            "k": "_gt_value_5",
+            "v": "v"
+          }
+        ],
+        "i": 4,
+        "t": "p"
+      },
+      {
+        "c": {
+          "i": 7,
+          "k": "_gt_value_7",
+          "v": "v"
+        },
+        "i": 6,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "818a72d91bec8d6f": "Haz un seguimiento de objetos celestes, planifica tus observaciones y registra descubrimientos desde tu observatorio.",
+  "8360fcbc62b33d5b": "Planifica tus sesiones de observación con la hora, altitud, acimut y recomendaciones de equipo óptimos.",
+  "95930e4604643366": "Conoce los tipos de objetos celestes, el equipo recomendado, técnicas de observación y terminología astronómica.",
+  "9bca6d8771f92e00": "Registro de observaciones — Stellaris Observatory",
+  "9dffbf0a83e5af6a": {
+    "c": {
+      "d": {
+        "b": {
+          "many": {
+            "c": "observaciones totales",
+            "i": 3,
+            "t": "C3"
+          },
+          "other": {
+            "c": "observaciones totales",
+            "i": 3,
+            "t": "C3"
+          },
+          "plural": {
+            "c": "observaciones totales",
+            "i": 3,
+            "t": "C3"
+          },
+          "singular": {
+            "c": "observación total",
+            "i": 3,
+            "t": "C3"
+          }
+        },
+        "t": "p"
+      },
+      "i": 2,
+      "t": "Plural"
+    },
+    "i": 1,
+    "t": "p"
+  },
+  "a309eef8d4227a49": {
+    "c": [
+      {
+        "c": "Nombre",
+        "i": 2,
+        "t": "th"
+      },
+      {
+        "c": "Tipo",
+        "i": 3,
+        "t": "th"
+      },
+      {
+        "c": "Constelación",
+        "i": 4,
+        "t": "th"
+      },
+      {
+        "c": "Magnitud",
+        "i": 5,
+        "t": "th"
+      },
+      {
+        "c": "Distancia",
+        "i": 6,
+        "t": "th"
+      },
+      {
+        "c": "Clase espectral",
+        "i": 7,
+        "t": "th"
+      },
+      {
+        "c": "Ascensión recta / Declinación",
+        "i": 8,
+        "t": "th"
+      }
+    ],
+    "i": 1,
+    "t": "tr"
+  },
+  "a6a7cf0f748fcf66": {
+    "c": "Observación mejor valorada",
+    "i": 1,
+    "t": "p"
+  },
+  "aacfb9ba0f0cb584": {
+    "c": {
+      "d": {
+        "b": {
+          "many": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " objetos encontrados"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "other": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " objetos encontrados"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "plural": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " objetos encontrados"
+            ],
+            "i": 3,
+            "t": "C3"
+          },
+          "singular": {
+            "c": [
+              {
+                "i": 4,
+                "k": "_gt_n_4",
+                "v": "n"
+              },
+              " objeto encontrado"
+            ],
+            "i": 3,
+            "t": "C3"
+          }
+        },
+        "t": "p"
+      },
+      "i": 2,
+      "t": "Plural"
+    },
+    "i": 1,
+    "t": "p"
+  },
+  "bbe3740e8e104d3a": [
+    {
+      "c": "Guía de equipo",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "La elección del equipo adecuado depende de tu objetivo. La apertura determina la capacidad de captación de luz, fundamental para objetos tenues de cielo profundo como galaxias y nebulosas. El aumento es más importante para la observación planetaria.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "cbba1905ed1cd4b5": "Revisa observaciones anteriores con notas detalladas sobre condiciones, equipo y evaluación de la calidad.",
+  "d0f2b3715f4325a7": "Catálogo de objetos — Stellaris Observatory",
+  "d7e37a926229c990": [
+    {
+      "c": {
+        "i": 2,
+        "k": "_gt_value_2",
+        "v": "v"
+      },
+      "i": 1,
+      "t": "p"
+    },
+    {
+      "c": [
+        "Equipo recomendado: ",
+        {
+          "i": 4,
+          "t": "EquipmentRecommendation"
+        }
+      ],
+      "i": 3,
+      "t": "p"
+    }
+  ],
+  "d95d281d77c3c116": {
+    "c": [
+      {
+        "c": [
+          "Altitud: ",
+          {
+            "i": 3,
+            "k": "_gt_value_3",
+            "v": "v"
+          },
+          "° — Acimut: ",
+          {
+            "i": 4,
+            "k": "_gt_value_4",
+            "v": "v"
+          },
+          "°"
+        ],
+        "i": 2,
+        "t": "p"
+      },
+      {
+        "c": {
+          "i": 6,
+          "t": "VisibilityLabel"
+        },
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          "Equipo recomendado: ",
+          {
+            "i": 8,
+            "t": "EquipmentRecommendation"
+          }
+        ],
+        "i": 7,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "daea5c12935b368b": "Guía del observador — Stellaris Observatory",
+  "e88e451ebe8dcbc4": [
+    {
+      "c": "Destacados de esta noche",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Objetos celestes destacados visibles esta noche, ordenados por magnitud y condiciones de visibilidad desde el observatorio.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "eab13eebca1ec566": [
+    {
+      "c": "Guía del observador",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Una guía de referencia que abarca tipos de objetos celestes, equipo recomendado, niveles de dificultad y terminología astronómica esencial. Tanto si eres principiante y estás aprendiendo a identificar constelaciones como si eres un observador avanzado en busca de galaxias tenues, esta guía cubre los fundamentos.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "f1eca71a4c69c633": [
+    {
+      "c": "Catálogo de objetos",
+      "i": 1,
+      "t": "h1"
+    },
+    {
+      "c": "Un catálogo completo de objetos celestes visibles desde el Stellaris Observatory. Filtra por tipo de objeto, constelación o rango de magnitud. Cada entrada incluye datos de clase espectral, distancia en años luz y coordenadas en ascensión recta y declinación.",
+      "i": 2,
+      "t": "p"
+    }
+  ],
+  "fa4d3ff931d20a5f": [
+    {
+      "c": [
+        {
+          "c": {
+            "i": 3,
+            "k": "_gt_n_3",
+            "v": "n"
+          },
+          "i": 2,
+          "t": "p"
+        },
+        {
+          "c": {
+            "d": {
+              "b": {
+                "many": {
+                  "c": "objetos catalogados",
+                  "i": 6,
+                  "t": "C6"
+                },
+                "other": {
+                  "c": "objetos catalogados",
+                  "i": 6,
+                  "t": "C6"
+                },
+                "plural": {
+                  "c": "objetos catalogados",
+                  "i": 6,
+                  "t": "C6"
+                },
+                "singular": {
+                  "c": "objeto catalogado",
+                  "i": 6,
+                  "t": "C6"
+                }
+              },
+              "t": "p"
+            },
+            "i": 5,
+            "t": "Plural"
+          },
+          "i": 4,
+          "t": "p"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": {
+            "i": 8,
+            "k": "_gt_n_8",
+            "v": "n"
+          },
+          "i": 7,
+          "t": "p"
+        },
+        {
+          "c": {
+            "d": {
+              "b": {
+                "many": {
+                  "c": "observaciones este mes",
+                  "i": 11,
+                  "t": "C11"
+                },
+                "other": {
+                  "c": "observaciones este mes",
+                  "i": 11,
+                  "t": "C11"
+                },
+                "plural": {
+                  "c": "observaciones este mes",
+                  "i": 11,
+                  "t": "C11"
+                },
+                "singular": {
+                  "c": "observación este mes",
+                  "i": 11,
+                  "t": "C11"
+                }
+              },
+              "t": "p"
+            },
+            "i": 10,
+            "t": "Plural"
+          },
+          "i": 9,
+          "t": "p"
+        }
+      ],
+      "i": 6,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": {
+            "i": 13,
+            "k": "_gt_n_13",
+            "v": "n"
+          },
+          "i": 12,
+          "t": "p"
+        },
+        {
+          "c": {
+            "d": {
+              "b": {
+                "many": {
+                  "c": "horas registradas",
+                  "i": 16,
+                  "t": "C16"
+                },
+                "other": {
+                  "c": "horas registradas",
+                  "i": 16,
+                  "t": "C16"
+                },
+                "plural": {
+                  "c": "horas registradas",
+                  "i": 16,
+                  "t": "C16"
+                },
+                "singular": {
+                  "c": "hora registrada",
+                  "i": 16,
+                  "t": "C16"
+                }
+              },
+              "t": "p"
+            },
+            "i": 15,
+            "t": "Plural"
+          },
+          "i": 14,
+          "t": "p"
+        }
+      ],
+      "i": 11,
+      "t": "div"
+    }
+  ],
+  "fc15d2423f80e134": [
+    {
+      "c": "Glosario de terminología",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": [
+        {
+          "c": [
+            {
+              "c": "Magnitud",
+              "i": 4,
+              "t": "dt"
+            },
+            {
+              "c": "Medida del brillo de un objeto tal como se ve desde la Tierra. Los valores de magnitud más bajos indican objetos más brillantes. Las magnitudes negativas denotan los objetos más brillantes del cielo.",
+              "i": 5,
+              "t": "dd"
+            }
+          ],
+          "i": 3,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Constelación",
+              "i": 7,
+              "t": "dt"
+            },
+            {
+              "c": "Región definida de la esfera celeste, nombrada en honor a figuras u objetos mitológicos. Las constelaciones ayudan a localizar y catalogar objetos celestes.",
+              "i": 8,
+              "t": "dd"
+            }
+          ],
+          "i": 6,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Ascensión recta",
+              "i": 10,
+              "t": "dt"
+            },
+            {
+              "c": "Equivalente celeste de la longitud, medido en horas, minutos y segundos. La ascensión recta y la declinación juntas definen una posición en la esfera celeste.",
+              "i": 11,
+              "t": "dd"
+            }
+          ],
+          "i": 9,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Declinación",
+              "i": 13,
+              "t": "dt"
+            },
+            {
+              "c": "Equivalente celeste de la latitud, medido en grados al norte o al sur del ecuador celeste. Se usa junto con la ascensión recta para especificar posiciones.",
+              "i": 14,
+              "t": "dd"
+            }
+          ],
+          "i": 12,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Clase espectral",
+              "i": 16,
+              "t": "dt"
+            },
+            {
+              "c": "Clasificación de las estrellas basada en la temperatura superficial y las características espectrales. Las clases van desde O (más calientes, azules) hasta M (más frías, rojas).",
+              "i": 17,
+              "t": "dd"
+            }
+          ],
+          "i": 15,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Año luz",
+              "i": 19,
+              "t": "dt"
+            },
+            {
+              "c": "Distancia que recorre la luz en un año, aproximadamente 9,46 billones de kilómetros. Se usa para expresar distancias a estrellas, nebulosas y galaxias.",
+              "i": 20,
+              "t": "dd"
+            }
+          ],
+          "i": 18,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Apertura",
+              "i": 22,
+              "t": "dt"
+            },
+            {
+              "c": "Diámetro de la lente o el espejo principal de un telescopio. Una mayor apertura capta más luz, lo que permite observar objetos más tenues como galaxias y nebulosas distantes.",
+              "i": 23,
+              "t": "dd"
+            }
+          ],
+          "i": 21,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Acimut",
+              "i": 25,
+              "t": "dt"
+            },
+            {
+              "c": "Ángulo horizontal de un objeto medido en el sentido de las agujas del reloj desde el norte verdadero. Combinado con la altitud, define la posición de un objeto en el cielo local.",
+              "i": 26,
+              "t": "dd"
+            }
+          ],
+          "i": 24,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Altitud",
+              "i": 28,
+              "t": "dt"
+            },
+            {
+              "c": "Ángulo de un objeto celeste sobre el horizonte, medido en grados. Los objetos a mayor altitud suelen ser más fáciles de observar debido a una menor interferencia atmosférica.",
+              "i": 29,
+              "t": "dd"
+            }
+          ],
+          "i": 27,
+          "t": "div"
+        },
+        {
+          "c": [
+            {
+              "c": "Época",
+              "i": 31,
+              "t": "dt"
+            },
+            {
+              "c": "Punto de referencia en el tiempo utilizado para coordenadas celestes. La época estándar actual es J2000.0, que corresponde al 1 de enero de 2000.",
+              "i": 32,
+              "t": "dd"
+            }
+          ],
+          "i": 30,
+          "t": "div"
+        }
+      ],
+      "i": 2,
+      "t": "dl"
+    }
+  ],
+  "fcb1772fe9bf1d0e": "Stellaris Observatory — El cielo de esta noche"
+}
